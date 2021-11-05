@@ -1,0 +1,649 @@
+0000.002 (0) Opened log file at time: Sat, 30 Oct 2021 13:24:15 +0000 on http://localhost/Myner%20Gameplay/Myner-Gameplay
+0001.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.1 PHP: 7.3.27 (apache2handler, Windows NT LEX 10.0 build 22000 (Windows 10) AMD64) MySQL: 10.4.18-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.3.27 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 43.2M | 10M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0001.864 (0) Free space on disk containing Updraft's temporary directory: 63851.6 MB
+0003.131 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0005.085 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0018.003 (0) Set semaphore last lock (fd) time to 2021-10-30 13:24:33
+0019.149 (0) Semaphore lock (fd) complete
+0026.862 (0) Backup run: resumption=0, nonce=1b7483c1b5dc, file_nonce=1b7483c1b5dc begun at=1635600255 (27s ago), job type=backup
+0033.146 (0) Scheduling a resumption (1) after 300 seconds (1635600589) in case this run gets aborted
+0036.458 (0) Checking if we have a zip executable available
+0045.170 (0) Creation of backups of directories: beginning
+0048.022 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0064.038 (0) Total entities for the zip file: 565 directories, 2722 files (0 skipped as non-modified), 39.3 MB
+0066.489 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0072.783 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 100 files added (on-disk size: 108.4 KB)
+0073.214 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 100 (101) files added so far); re-opening (prior size: 108.4 KB)
+0078.016 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 81 (182) files added so far); re-opening (prior size: 474.6 KB)
+0080.662 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 200 files added (on-disk size: 613.3 KB)
+0083.119 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 28 (210) files added so far); re-opening (prior size: 613.3 KB)
+0088.113 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 9 (219) files added so far); re-opening (prior size: 716.7 KB)
+0096.179 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 20 (239) files added so far); re-opening (prior size: 863.5 KB)
+0101.213 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 11 (250) files added so far); re-opening (prior size: 1139.5 KB)
+0107.407 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 8 (258) files added so far); re-opening (prior size: 1153 KB)
+0111.713 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 300 files added (on-disk size: 1367.2 KB)
+0112.648 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 43 (301) files added so far); re-opening (prior size: 1367.2 KB)
+0116.122 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 24 (325) files added so far); re-opening (prior size: 1475.3 KB)
+0120.032 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 13 (338) files added so far); re-opening (prior size: 1498.8 KB)
+0125.190 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 9 (347) files added so far); re-opening (prior size: 1509.5 KB)
+0132.324 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 13 (360) files added so far); re-opening (prior size: 1519 KB)
+0139.801 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 15 (375) files added so far); re-opening (prior size: 1531.2 KB)
+0145.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (389) files added so far); re-opening (prior size: 1619.6 KB)
+0150.530 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 10 (399) files added so far); re-opening (prior size: 1637.8 KB)
+0155.059 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 400 files added (on-disk size: 1689.3 KB)
+0160.393 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 2 (401) files added so far); re-opening (prior size: 1689.3 KB)
+0166.290 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 8 (409) files added so far); re-opening (prior size: 1875.6 KB)
+0170.168 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 17 (426) files added so far); re-opening (prior size: 1953.8 KB)
+0174.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 10 (436) files added so far); re-opening (prior size: 1975.1 KB)
+0178.339 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 11 (447) files added so far); re-opening (prior size: 2006.4 KB)
+0183.055 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 14 (461) files added so far); re-opening (prior size: 2047.4 KB)
+0187.168 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 19 (480) files added so far); re-opening (prior size: 2080 KB)
+0191.061 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 18 (498) files added so far); re-opening (prior size: 2118.1 KB)
+0198.361 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 500 files added (on-disk size: 2131.7 KB)
+0200.976 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 3 (501) files added so far); re-opening (prior size: 2131.7 KB)
+0205.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 15 (516) files added so far); re-opening (prior size: 2133.7 KB)
+0216.068 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 13 (529) files added so far); re-opening (prior size: 2141 KB)
+0226.096 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (543) files added so far); re-opening (prior size: 2146.8 KB)
+0233.034 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 10 (553) files added so far); re-opening (prior size: 2157.9 KB)
+0238.183 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 12 (565) files added so far); re-opening (prior size: 2165.8 KB)
+0244.165 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 12 (577) files added so far); re-opening (prior size: 2175.5 KB)
+0249.081 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 11 (588) files added so far); re-opening (prior size: 2185 KB)
+0254.099 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 11 (599) files added so far); re-opening (prior size: 2193.9 KB)
+0256.429 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 600 files added (on-disk size: 2202.6 KB)
+0259.132 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 13 (612) files added so far); re-opening (prior size: 2202.6 KB)
+0264.057 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 16 (628) files added so far); re-opening (prior size: 2212.6 KB)
+0268.232 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 11 (639) files added so far); re-opening (prior size: 2223.9 KB)
+0273.154 (0) The time we have been running (270.3) is approaching the resumption interval (300) - increasing resumption interval to 301
+0277.067 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (653) files added so far); re-opening (prior size: 2231.7 KB)
+0278.870 (0) The time we have been running (277.6) is approaching the resumption interval (301) - increasing resumption interval to 308
+0282.282 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 16 (669) files added so far); re-opening (prior size: 2241.5 KB)
+0287.621 (0) The time we have been running (282.8) is approaching the resumption interval (308) - increasing resumption interval to 313
+0288.905 (0) The scheduled resumption is within 45 seconds - will reschedule
+0290.197 (0) Rescheduling resumption 1: moving to 358 seconds from now (1635600904)
+0293.752 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 313 + 45 = 358
+0297.194 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 14 (683) files added so far); re-opening (prior size: 2250 KB)
+0309.190 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 17 (700) files added so far); re-opening (prior size: 2332.5 KB)
+0314.626 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 700 files added (on-disk size: 2426.5 KB)
+0319.941 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (701) files added so far); re-opening (prior size: 2426.5 KB)
+0323.089 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 11 (712) files added so far); re-opening (prior size: 2428.3 KB)
+0327.112 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 14 (726) files added so far); re-opening (prior size: 2449.1 KB)
+0333.686 (0) The time we have been running (329.8) is approaching the resumption interval (358) - increasing resumption interval to 360
+0344.024 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 38 (764) files added so far); re-opening (prior size: 2475.9 KB)
+0357.259 (0) The time we have been running (349.9) is approaching the resumption interval (360) - increasing resumption interval to 380
+0367.248 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 23 (787) files added so far); re-opening (prior size: 2537.7 KB)
+0370.377 (0) The time we have been running (368.3) is approaching the resumption interval (380) - increasing resumption interval to 399
+0375.236 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 12 (799) files added so far); re-opening (prior size: 2575 KB)
+0380.154 (0) The time we have been running (377.8) is approaching the resumption interval (399) - increasing resumption interval to 408
+0382.114 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 800 files added (on-disk size: 2594.3 KB)
+0384.141 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 9 (808) files added so far); re-opening (prior size: 2594.3 KB)
+0387.477 (0) The time we have been running (385.3) is approaching the resumption interval (408) - increasing resumption interval to 416
+0392.269 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 15 (823) files added so far); re-opening (prior size: 2610.1 KB)
+0395.017 (0) The time we have been running (392.8) is approaching the resumption interval (416) - increasing resumption interval to 423
+0399.156 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 14 (837) files added so far); re-opening (prior size: 2633.3 KB)
+0404.913 (0) The time we have been running (401) is approaching the resumption interval (423) - increasing resumption interval to 432
+0410.143 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 15 (852) files added so far); re-opening (prior size: 2666.3 KB)
+0413.949 (0) The time we have been running (411.3) is approaching the resumption interval (432) - increasing resumption interval to 442
+0418.523 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 4 (856) files added so far); re-opening (prior size: 2707.6 KB)
+0421.486 (0) The time we have been running (419.9) is approaching the resumption interval (442) - increasing resumption interval to 450
+0427.441 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 4 (860) files added so far); re-opening (prior size: 3121.7 KB)
+0434.876 (0) The time we have been running (429) is approaching the resumption interval (450) - increasing resumption interval to 460
+0439.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 5 (865) files added so far); re-opening (prior size: 3337.9 KB)
+0444.586 (0) The time we have been running (441.6) is approaching the resumption interval (460) - increasing resumption interval to 472
+0449.640 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 7 (872) files added so far); re-opening (prior size: 3728.7 KB)
+0456.608 (0) The time we have been running (451.5) is approaching the resumption interval (472) - increasing resumption interval to 482
+0462.537 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 5 (877) files added so far); re-opening (prior size: 4111.3 KB)
+0468.300 (0) The time we have been running (465.8) is approaching the resumption interval (482) - increasing resumption interval to 496
+0478.175 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 15 (892) files added so far); re-opening (prior size: 4618.7 KB)
+0487.094 (0) The time we have been running (480.6) is approaching the resumption interval (496) - increasing resumption interval to 511
+0492.656 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 900 files added (on-disk size: 4711.3 KB)
+0493.568 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 9 (901) files added so far); re-opening (prior size: 4711.3 KB)
+0498.392 (0) The time we have been running (495.6) is approaching the resumption interval (511) - increasing resumption interval to 526
+0503.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 30 (931) files added so far); re-opening (prior size: 4868.5 KB)
+0506.658 (0) The time we have been running (504) is approaching the resumption interval (526) - increasing resumption interval to 534
+0511.200 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 32 (963) files added so far); re-opening (prior size: 4928.8 KB)
+0515.116 (0) The time we have been running (511.7) is approaching the resumption interval (534) - increasing resumption interval to 542
+0520.361 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1000 files added (on-disk size: 4957 KB)
+0521.039 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 39 (1002) files added so far); re-opening (prior size: 4957 KB)
+0523.403 (0) The time we have been running (521.8) is approaching the resumption interval (542) - increasing resumption interval to 552
+0528.338 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 13 (1015) files added so far); re-opening (prior size: 5118.9 KB)
+0531.172 (0) The time we have been running (528.7) is approaching the resumption interval (552) - increasing resumption interval to 559
+0539.025 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 3 (1018) files added so far); re-opening (prior size: 5291.4 KB)
+0545.446 (0) The time we have been running (540.2) is approaching the resumption interval (559) - increasing resumption interval to 571
+0553.640 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 9 (1027) files added so far); re-opening (prior size: 5527.3 KB)
+0563.906 (0) The time we have been running (557.7) is approaching the resumption interval (571) - increasing resumption interval to 588
+0571.314 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 10 (1037) files added so far); re-opening (prior size: 5580.7 KB)
+0575.456 (0) The time we have been running (572.9) is approaching the resumption interval (588) - increasing resumption interval to 603
+0581.157 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 17 (1054) files added so far); re-opening (prior size: 5601.8 KB)
+0600.544 (0) The time we have been running (591.4) is approaching the resumption interval (603) - increasing resumption interval to 622
+0607.160 (0) The scheduled resumption is within 45 seconds - will reschedule
+0613.264 (0) Rescheduling resumption 1: moving to 667 seconds from now (1635601536)
+0621.623 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 622 + 45 = 667
+0625.161 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 16 (1070) files added so far); re-opening (prior size: 5626.2 KB)
+0631.192 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 12 (1082) files added so far); re-opening (prior size: 5672.3 KB)
+0641.517 (0) The time we have been running (637.7) is approaching the resumption interval (667) - increasing resumption interval to 668
+0650.670 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1100 files added (on-disk size: 5701 KB)
+0651.044 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 20 (1102) files added so far); re-opening (prior size: 5701 KB)
+0652.970 (0) The time we have been running (651.3) is approaching the resumption interval (668) - increasing resumption interval to 682
+0657.063 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 17 (1119) files added so far); re-opening (prior size: 5762.5 KB)
+0658.901 (0) The time we have been running (657.9) is approaching the resumption interval (682) - increasing resumption interval to 688
+0662.020 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 32 (1151) files added so far); re-opening (prior size: 5804.9 KB)
+0663.823 (0) The time we have been running (662.4) is approaching the resumption interval (688) - increasing resumption interval to 693
+0667.059 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 21 (1172) files added so far); re-opening (prior size: 5856.7 KB)
+0670.157 (0) The time we have been running (668.3) is approaching the resumption interval (693) - increasing resumption interval to 699
+0675.016 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 8 (1180) files added so far); re-opening (prior size: 5887.8 KB)
+0678.226 (0) The time we have been running (676.5) is approaching the resumption interval (699) - increasing resumption interval to 707
+0680.812 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1200 files added (on-disk size: 5917.6 KB)
+0685.921 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 21 (1201) files added so far); re-opening (prior size: 5917.6 KB)
+0689.840 (0) The time we have been running (687.1) is approaching the resumption interval (707) - increasing resumption interval to 718
+0696.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 20 (1221) files added so far); re-opening (prior size: 5964.1 KB)
+0702.433 (0) The time we have been running (699) is approaching the resumption interval (718) - increasing resumption interval to 729
+0708.056 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 22 (1243) files added so far); re-opening (prior size: 5983.8 KB)
+0717.772 (0) The time we have been running (711.6) is approaching the resumption interval (729) - increasing resumption interval to 742
+0728.067 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 20 (1263) files added so far); re-opening (prior size: 5998.7 KB)
+0733.556 (0) The time we have been running (728.8) is approaching the resumption interval (742) - increasing resumption interval to 759
+0742.084 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 13 (1276) files added so far); re-opening (prior size: 6016.7 KB)
+0747.929 (0) The time we have been running (743.5) is approaching the resumption interval (759) - increasing resumption interval to 774
+0754.020 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 18 (1294) files added so far); re-opening (prior size: 6026 KB)
+0757.527 (0) The time we have been running (755) is approaching the resumption interval (774) - increasing resumption interval to 786
+0760.138 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1300 files added (on-disk size: 6038.5 KB)
+0762.087 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 9 (1303) files added so far); re-opening (prior size: 6038.5 KB)
+0765.781 (0) The time we have been running (763.5) is approaching the resumption interval (786) - increasing resumption interval to 794
+0770.157 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 20 (1323) files added so far); re-opening (prior size: 6043.5 KB)
+0773.169 (0) The time we have been running (770.8) is approaching the resumption interval (794) - increasing resumption interval to 801
+0778.403 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 14 (1337) files added so far); re-opening (prior size: 6066.2 KB)
+0782.292 (0) The time we have been running (779.3) is approaching the resumption interval (801) - increasing resumption interval to 810
+0786.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 19 (1356) files added so far); re-opening (prior size: 6165.3 KB)
+0788.957 (0) The time we have been running (786.9) is approaching the resumption interval (810) - increasing resumption interval to 817
+0792.397 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 5 (1361) files added so far); re-opening (prior size: 6367.1 KB)
+0797.882 (0) The time we have been running (794.3) is approaching the resumption interval (817) - increasing resumption interval to 825
+0803.172 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 20 (1381) files added so far); re-opening (prior size: 6425.2 KB)
+0807.224 (0) The time we have been running (804.6) is approaching the resumption interval (825) - increasing resumption interval to 835
+0811.577 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1400 files added (on-disk size: 6563.1 KB)
+0814.653 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 20 (1401) files added so far); re-opening (prior size: 6563.1 KB)
+0821.964 (0) The time we have been running (818.8) is approaching the resumption interval (835) - increasing resumption interval to 849
+0826.300 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 30 (1431) files added so far); re-opening (prior size: 6671.4 KB)
+0830.431 (0) The time we have been running (827.6) is approaching the resumption interval (849) - increasing resumption interval to 858
+0835.173 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 17 (1448) files added so far); re-opening (prior size: 6801.5 KB)
+0846.242 (0) The time we have been running (839.6) is approaching the resumption interval (858) - increasing resumption interval to 870
+0855.063 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 26 (1474) files added so far); re-opening (prior size: 6861.5 KB)
+0864.599 (0) The time we have been running (857.5) is approaching the resumption interval (870) - increasing resumption interval to 888
+0868.068 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 22 (1496) files added so far); re-opening (prior size: 7184.9 KB)
+0875.472 (0) The time we have been running (868.6) is approaching the resumption interval (888) - increasing resumption interval to 899
+0878.610 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1500 files added (on-disk size: 7277.8 KB)
+0882.290 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 5 (1501) files added so far); re-opening (prior size: 7277.8 KB)
+0888.645 (0) The time we have been running (885.3) is approaching the resumption interval (899) - increasing resumption interval to 916
+0893.049 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 15 (1516) files added so far); re-opening (prior size: 7314 KB)
+0897.103 (0) The time we have been running (894) is approaching the resumption interval (916) - increasing resumption interval to 924
+0901.162 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 13 (1529) files added so far); re-opening (prior size: 7351.9 KB)
+0903.824 (0) The time we have been running (901.7) is approaching the resumption interval (924) - increasing resumption interval to 932
+0908.348 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 10 (1539) files added so far); re-opening (prior size: 7374.6 KB)
+0911.051 (0) The time we have been running (909.7) is approaching the resumption interval (932) - increasing resumption interval to 940
+0915.201 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 9 (1548) files added so far); re-opening (prior size: 7460.4 KB)
+0918.398 (0) The time we have been running (916.5) is approaching the resumption interval (940) - increasing resumption interval to 947
+0922.144 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 8 (1556) files added so far); re-opening (prior size: 7479 KB)
+0926.570 (0) The time we have been running (923.5) is approaching the resumption interval (947) - increasing resumption interval to 954
+0933.033 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 11 (1567) files added so far); re-opening (prior size: 7518.2 KB)
+0939.416 (0) The time we have been running (933.9) is approaching the resumption interval (954) - increasing resumption interval to 964
+0944.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 20 (1587) files added so far); re-opening (prior size: 7572.5 KB)
+0945.703 (0) The time we have been running (944.6) is approaching the resumption interval (964) - increasing resumption interval to 975
+0949.518 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 9 (1596) files added so far); re-opening (prior size: 7665.7 KB)
+0952.350 (0) The time we have been running (950.5) is approaching the resumption interval (975) - increasing resumption interval to 981
+0954.501 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1600 files added (on-disk size: 7773 KB)
+0956.137 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 5 (1601) files added so far); re-opening (prior size: 7773 KB)
+0960.377 (0) The time we have been running (958) is approaching the resumption interval (981) - increasing resumption interval to 989
+0964.379 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 19 (1620) files added so far); re-opening (prior size: 7820.9 KB)
+0970.849 (0) The time we have been running (965.5) is approaching the resumption interval (989) - increasing resumption interval to 996
+0982.001 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 21 (1641) files added so far); re-opening (prior size: 7895.2 KB)
+0988.750 (0) The time we have been running (983.7) is approaching the resumption interval (996) - increasing resumption interval to 1014
+0996.365 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 9 (1650) files added so far); re-opening (prior size: 8026 KB)
+1001.083 (0) The time we have been running (999.5) is approaching the resumption interval (1014) - increasing resumption interval to 1030
+1010.171 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 5 (1655) files added so far); re-opening (prior size: 8289 KB)
+1017.437 (0) The time we have been running (1013.3) is approaching the resumption interval (1030) - increasing resumption interval to 1044
+1021.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 5 (1660) files added so far); re-opening (prior size: 8517.3 KB)
+1027.528 (0) The time we have been running (1025) is approaching the resumption interval (1044) - increasing resumption interval to 1056
+1032.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 5 (1665) files added so far); re-opening (prior size: 8823.5 KB)
+1042.424 (0) The time we have been running (1038.5) is approaching the resumption interval (1056) - increasing resumption interval to 1069
+1047.357 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 7 (1672) files added so far); re-opening (prior size: 9043.3 KB)
+1054.801 (0) The time we have been running (1052.2) is approaching the resumption interval (1069) - increasing resumption interval to 1083
+1060.357 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 4 (1676) files added so far); re-opening (prior size: 9336.5 KB)
+1084.417 (0) The time we have been running (1067) is approaching the resumption interval (1083) - increasing resumption interval to 1098
+1090.468 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 7 (1683) files added so far); re-opening (prior size: 9470.9 KB)
+1098.595 (0) The time we have been running (1094.7) is approaching the resumption interval (1098) - increasing resumption interval to 1125
+1101.540 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1700 files added (on-disk size: 9736.5 KB)
+1105.876 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 18 (1701) files added so far); re-opening (prior size: 9736.5 KB)
+1125.852 (0) The time we have been running (1119.8) is approaching the resumption interval (1125) - increasing resumption interval to 1150
+1130.132 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 8 (1709) files added so far); re-opening (prior size: 10629.3 KB)
+1138.657 (0) The time we have been running (1134.4) is approaching the resumption interval (1150) - increasing resumption interval to 1165
+1146.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 45 (1754) files added so far); re-opening (prior size: 10913.7 KB)
+1154.251 (0) The time we have been running (1151.3) is approaching the resumption interval (1165) - increasing resumption interval to 1182
+1158.052 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 32 (1786) files added so far); re-opening (prior size: 11127.9 KB)
+1159.236 (0) The time we have been running (1158.9) is approaching the resumption interval (1182) - increasing resumption interval to 1189
+1160.325 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1800 files added (on-disk size: 11184.6 KB)
+1162.028 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 49 (1835) files added so far); re-opening (prior size: 11184.6 KB)
+1167.734 (0) The time we have been running (1163.3) is approaching the resumption interval (1189) - increasing resumption interval to 1194
+1171.223 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 41 (1876) files added so far); re-opening (prior size: 11238.1 KB)
+1180.609 (0) The time we have been running (1177.5) is approaching the resumption interval (1194) - increasing resumption interval to 1208
+1184.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 10 (1886) files added so far); re-opening (prior size: 11287.8 KB)
+1186.961 (0) The time we have been running (1185.2) is approaching the resumption interval (1208) - increasing resumption interval to 1216
+1192.295 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (1900) files added so far); re-opening (prior size: 11294.7 KB)
+1204.921 (0) The time we have been running (1195.1) is approaching the resumption interval (1216) - increasing resumption interval to 1226
+1209.981 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 1900 files added (on-disk size: 11304.9 KB)
+1213.535 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1901) files added so far); re-opening (prior size: 11304.9 KB)
+1226.141 (0) The time we have been running (1214.7) is approaching the resumption interval (1226) - increasing resumption interval to 1245
+1234.114 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 16 (1917) files added so far); re-opening (prior size: 11305.6 KB)
+1243.463 (0) The time we have been running (1239.6) is approaching the resumption interval (1245) - increasing resumption interval to 1270
+1245.274 (0) The scheduled resumption is within 45 seconds - will reschedule
+1246.859 (0) Rescheduling resumption 1: moving to 600 seconds from now (1635602102)
+1249.361 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 1270 + 45 = 1315
+1253.034 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (1931) files added so far); re-opening (prior size: 11316.8 KB)
+1258.046 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 10 (1941) files added so far); re-opening (prior size: 11326.8 KB)
+1263.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 13 (1954) files added so far); re-opening (prior size: 11333.8 KB)
+1267.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 17 (1971) files added so far); re-opening (prior size: 11343.6 KB)
+1271.026 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 15 (1986) files added so far); re-opening (prior size: 11356.2 KB)
+1275.163 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 11 (1997) files added so far); re-opening (prior size: 11377.8 KB)
+1278.012 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 2000 files added (on-disk size: 11411.3 KB)
+1280.089 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 12 (2009) files added so far); re-opening (prior size: 11411.3 KB)
+1284.246 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 6 (2015) files added so far); re-opening (prior size: 11436.3 KB)
+1289.379 (0) The time we have been running (1285.6) is approaching the resumption interval (1315) - increasing resumption interval to 1316
+1295.536 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 3 (2018) files added so far); re-opening (prior size: 11604.2 KB)
+1305.589 (0) The time we have been running (1297.6) is approaching the resumption interval (1316) - increasing resumption interval to 1328
+1311.149 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 34 (2052) files added so far); re-opening (prior size: 11738.5 KB)
+1311.731 (0) The time we have been running (1311.5) is approaching the resumption interval (1328) - increasing resumption interval to 1342
+1315.134 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 27 (2079) files added so far); re-opening (prior size: 11780.8 KB)
+1319.670 (0) The time we have been running (1318.9) is approaching the resumption interval (1342) - increasing resumption interval to 1349
+1320.872 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 2100 files added (on-disk size: 11816.6 KB)
+1323.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 56 (2135) files added so far); re-opening (prior size: 11816.6 KB)
+1332.742 (0) The time we have been running (1332.5) is approaching the resumption interval (1349) - increasing resumption interval to 1363
+1335.055 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 53 (2188) files added so far); re-opening (prior size: 11879.1 KB)
+1340.882 (0) The time we have been running (1336.1) is approaching the resumption interval (1363) - increasing resumption interval to 1367
+1344.235 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 2200 files added (on-disk size: 12077.8 KB)
+1345.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 15 (2203) files added so far); re-opening (prior size: 12077.8 KB)
+1351.183 (0) The time we have been running (1345.9) is approaching the resumption interval (1367) - increasing resumption interval to 1376
+1356.057 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 18 (2221) files added so far); re-opening (prior size: 12091.4 KB)
+1362.200 (0) The time we have been running (1357.8) is approaching the resumption interval (1376) - increasing resumption interval to 1388
+1367.070 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 21 (2242) files added so far); re-opening (prior size: 12110.2 KB)
+1371.225 (0) The time we have been running (1368.2) is approaching the resumption interval (1388) - increasing resumption interval to 1399
+1377.042 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 12 (2254) files added so far); re-opening (prior size: 12132.8 KB)
+1383.028 (0) The time we have been running (1378.7) is approaching the resumption interval (1399) - increasing resumption interval to 1409
+1388.101 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 24 (2278) files added so far); re-opening (prior size: 12148.5 KB)
+1394.136 (0) The time we have been running (1390.5) is approaching the resumption interval (1409) - increasing resumption interval to 1421
+1398.422 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 2300 files added (on-disk size: 12170.2 KB)
+1399.582 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 23 (2301) files added so far); re-opening (prior size: 12170.2 KB)
+1406.565 (0) The time we have been running (1401.9) is approaching the resumption interval (1421) - increasing resumption interval to 1432
+1411.029 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (2315) files added so far); re-opening (prior size: 12198.1 KB)
+1422.211 (0) The time we have been running (1412.2) is approaching the resumption interval (1432) - increasing resumption interval to 1443
+1428.371 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 15 (2330) files added so far); re-opening (prior size: 12214.4 KB)
+1435.668 (0) The time we have been running (1430.3) is approaching the resumption interval (1443) - increasing resumption interval to 1461
+1443.058 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 8 (2338) files added so far); re-opening (prior size: 12236.7 KB)
+1448.227 (0) The time we have been running (1444.9) is approaching the resumption interval (1461) - increasing resumption interval to 1475
+1452.202 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 17 (2355) files added so far); re-opening (prior size: 12245.5 KB)
+1465.282 (0) The time we have been running (1453.9) is approaching the resumption interval (1475) - increasing resumption interval to 1484
+1471.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 15 (2370) files added so far); re-opening (prior size: 12261.6 KB)
+1479.796 (0) The time we have been running (1475.9) is approaching the resumption interval (1484) - increasing resumption interval to 1506
+1484.054 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 16 (2386) files added so far); re-opening (prior size: 12278.9 KB)
+1486.825 (0) The time we have been running (1484.8) is approaching the resumption interval (1506) - increasing resumption interval to 1515
+1490.874 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 2400 files added (on-disk size: 12297.7 KB)
+1492.799 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 15 (2401) files added so far); re-opening (prior size: 12297.7 KB)
+1496.457 (0) The time we have been running (1493.8) is approaching the resumption interval (1515) - increasing resumption interval to 1524
+1500.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 17 (2418) files added so far); re-opening (prior size: 12314.1 KB)
+1502.590 (0) The time we have been running (1500.8) is approaching the resumption interval (1524) - increasing resumption interval to 1531
+1506.218 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 20 (2438) files added so far); re-opening (prior size: 12333 KB)
+1511.316 (0) The time we have been running (1508.1) is approaching the resumption interval (1531) - increasing resumption interval to 1539
+1517.256 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 14 (2452) files added so far); re-opening (prior size: 12356.1 KB)
+1521.448 (0) The time we have been running (1518.4) is approaching the resumption interval (1539) - increasing resumption interval to 1549
+1526.157 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 7 (2459) files added so far); re-opening (prior size: 12425.1 KB)
+1530.499 (0) The time we have been running (1526.9) is approaching the resumption interval (1549) - increasing resumption interval to 1557
+1535.527 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 6 (2465) files added so far); re-opening (prior size: 12523.4 KB)
+1539.270 (0) The time we have been running (1537.5) is approaching the resumption interval (1557) - increasing resumption interval to 1568
+1545.019 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 22 (2487) files added so far); re-opening (prior size: 12620 KB)
+1556.766 (0) The time we have been running (1550.3) is approaching the resumption interval (1568) - increasing resumption interval to 1581
+1564.446 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 2500 files added (on-disk size: 12641.9 KB)
+1565.278 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 14 (2501) files added so far); re-opening (prior size: 12641.9 KB)
+1574.605 (0) The time we have been running (1568.8) is approaching the resumption interval (1581) - increasing resumption interval to 1599
+1580.022 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 56 (2557) files added so far); re-opening (prior size: 12664.3 KB)
+1588.154 (0) The time we have been running (1581.1) is approaching the resumption interval (1599) - increasing resumption interval to 1612
+1595.004 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 2600 files added (on-disk size: 12703.5 KB)
+1596.583 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 44 (2601) files added so far); re-opening (prior size: 12703.5 KB)
+1603.233 (0) The time we have been running (1597.3) is approaching the resumption interval (1612) - increasing resumption interval to 1628
+1610.135 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 22 (2623) files added so far); re-opening (prior size: 12734.4 KB)
+1616.501 (0) The time we have been running (1610.9) is approaching the resumption interval (1628) - increasing resumption interval to 1641
+1621.013 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (2637) files added so far); re-opening (prior size: 12757.4 KB)
+1624.685 (0) The time we have been running (1622.3) is approaching the resumption interval (1641) - increasing resumption interval to 1653
+1629.216 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (2651) files added so far); re-opening (prior size: 12777.1 KB)
+1632.413 (0) The time we have been running (1630.3) is approaching the resumption interval (1653) - increasing resumption interval to 1661
+1638.215 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 12 (2663) files added so far); re-opening (prior size: 12793.3 KB)
+1642.844 (0) The time we have been running (1640.3) is approaching the resumption interval (1661) - increasing resumption interval to 1671
+1647.138 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 14 (2677) files added so far); re-opening (prior size: 12821.2 KB)
+1651.964 (0) The time we have been running (1648.1) is approaching the resumption interval (1671) - increasing resumption interval to 1679
+1663.188 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.tmp: 2700 files added (on-disk size: 12839.3 KB)
+1664.029 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 27 (2704) files added so far); re-opening (prior size: 12839.3 KB)
+1673.361 (0) The time we have been running (1666.7) is approaching the resumption interval (1679) - increasing resumption interval to 1697
+1676.178 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 16 (2720) files added so far); re-opening (prior size: 12863.6 KB)
+1686.966 (0) The time we have been running (1678.2) is approaching the resumption interval (1697) - increasing resumption interval to 1709
+1696.886 (0) The time we have been running (1688.6) is approaching the resumption interval (1709) - increasing resumption interval to 1719
+1701.575 (0) Creating zip file manifest (D:\Program Files\Xampp\htdocs\Myner Gameplay\Myner-Gameplay/wp-content/updraft/backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.list-temp.tmp)
+1702.562 (0) Successfully created zip file manifest (size: 249301)
+1707.680 (0) Created plugins zip (0) - 12901.6 KB in 1659.1 s (7.8 KB/s) (sha1: 19115f8bef0e9c35529c8f90197f9045838062c9, sha256: 318323932bde222aaff9c7873f8808b77b239ba63715877129473a8d6450c148)
+1709.085 (0) Beginning creation of dump of themes (split every: 400 MB)
+1724.454 (0) Total entities for the zip file: 172 directories, 781 files (0 skipped as non-modified), 12.5 MB
+1725.228 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+1731.460 (0) The time we have been running (1725.9) is approaching the resumption interval (1719) - increasing resumption interval to 1756
+1736.236 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 13 (14) files added so far); re-opening (prior size: 25.8 KB)
+1744.265 (0) The time we have been running (1740.8) is approaching the resumption interval (1756) - increasing resumption interval to 1771
+1749.022 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 12 (26) files added so far); re-opening (prior size: 135.8 KB)
+1752.100 (0) The time we have been running (1749.5) is approaching the resumption interval (1771) - increasing resumption interval to 1780
+1756.083 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 14 (40) files added so far); re-opening (prior size: 186.6 KB)
+1758.064 (0) The time we have been running (1756.8) is approaching the resumption interval (1780) - increasing resumption interval to 1787
+1762.051 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 6 (46) files added so far); re-opening (prior size: 207.1 KB)
+1766.343 (0) The time we have been running (1762.9) is approaching the resumption interval (1787) - increasing resumption interval to 1793
+1771.091 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 8 (54) files added so far); re-opening (prior size: 238.9 KB)
+1779.137 (0) The time we have been running (1772.4) is approaching the resumption interval (1793) - increasing resumption interval to 1803
+1786.046 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 18 (72) files added so far); re-opening (prior size: 291.3 KB)
+1792.775 (0) The time we have been running (1787.8) is approaching the resumption interval (1803) - increasing resumption interval to 1818
+1801.259 (0) The scheduled resumption is within 45 seconds - will reschedule
+1803.406 (0) Rescheduling resumption 1: moving to 600 seconds from now (1635602659)
+1813.290 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 1818 + 45 = 1863
+1816.150 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 20 (92) files added so far); re-opening (prior size: 308.3 KB)
+1819.998 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.tmp: 100 files added (on-disk size: 352.4 KB)
+1825.018 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 9 (101) files added so far); re-opening (prior size: 352.4 KB)
+1830.097 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 13 (114) files added so far); re-opening (prior size: 434.4 KB)
+1834.038 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 10 (124) files added so far); re-opening (prior size: 775 KB)
+1843.022 (0) The time we have been running (1836.4) is approaching the resumption interval (1863) - increasing resumption interval to 1867
+1848.711 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 15 (139) files added so far); re-opening (prior size: 1295.6 KB)
+1854.849 (0) The time we have been running (1851.8) is approaching the resumption interval (1867) - increasing resumption interval to 1882
+1859.555 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (140) files added so far); re-opening (prior size: 1934.4 KB)
+1863.884 (0) The time we have been running (1860.5) is approaching the resumption interval (1882) - increasing resumption interval to 1891
+1868.406 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 22 (162) files added so far); re-opening (prior size: 1978.9 KB)
+1874.645 (0) The time we have been running (1871.2) is approaching the resumption interval (1891) - increasing resumption interval to 1902
+1880.086 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 18 (180) files added so far); re-opening (prior size: 2178.9 KB)
+1884.390 (0) The time we have been running (1881.8) is approaching the resumption interval (1902) - increasing resumption interval to 1912
+1886.735 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.tmp: 200 files added (on-disk size: 2344.6 KB)
+1889.098 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 36 (216) files added so far); re-opening (prior size: 2344.6 KB)
+1894.087 (0) The time we have been running (1890.4) is approaching the resumption interval (1912) - increasing resumption interval to 1921
+1898.097 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 69 (285) files added so far); re-opening (prior size: 2403.6 KB)
+1901.425 (0) The time we have been running (1899.8) is approaching the resumption interval (1921) - increasing resumption interval to 1930
+1904.865 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.tmp: 300 files added (on-disk size: 2505.2 KB)
+1905.529 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 16 (301) files added so far); re-opening (prior size: 2505.2 KB)
+1910.080 (0) The time we have been running (1906) is approaching the resumption interval (1930) - increasing resumption interval to 1937
+1914.111 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 26 (327) files added so far); re-opening (prior size: 2550.6 KB)
+1920.196 (0) The time we have been running (1917.4) is approaching the resumption interval (1937) - increasing resumption interval to 1948
+1929.123 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 17 (344) files added so far); re-opening (prior size: 2568.2 KB)
+1932.340 (0) The time we have been running (1930.6) is approaching the resumption interval (1948) - increasing resumption interval to 1961
+1943.309 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 36 (380) files added so far); re-opening (prior size: 2611.1 KB)
+1951.308 (0) The time we have been running (1947.8) is approaching the resumption interval (1961) - increasing resumption interval to 1978
+1956.272 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.tmp: 400 files added (on-disk size: 2698.4 KB)
+1957.629 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 21 (401) files added so far); re-opening (prior size: 2698.4 KB)
+1964.213 (0) The time we have been running (1960.7) is approaching the resumption interval (1978) - increasing resumption interval to 1991
+1968.288 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 39 (440) files added so far); re-opening (prior size: 3039.1 KB)
+1978.554 (0) The time we have been running (1971.3) is approaching the resumption interval (1991) - increasing resumption interval to 2002
+1984.070 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 10 (450) files added so far); re-opening (prior size: 3135.1 KB)
+1995.212 (0) The time we have been running (1985.3) is approaching the resumption interval (2002) - increasing resumption interval to 2016
+2001.029 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 14 (464) files added so far); re-opening (prior size: 3310.2 KB)
+2003.637 (0) The time we have been running (2002.4) is approaching the resumption interval (2016) - increasing resumption interval to 2033
+2007.062 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 27 (491) files added so far); re-opening (prior size: 3369.4 KB)
+2008.989 (0) The time we have been running (2007.9) is approaching the resumption interval (2033) - increasing resumption interval to 2038
+2011.643 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.tmp: 500 files added (on-disk size: 3420.7 KB)
+2013.101 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 21 (512) files added so far); re-opening (prior size: 3420.7 KB)
+2015.575 (0) The time we have been running (2013.8) is approaching the resumption interval (2038) - increasing resumption interval to 2044
+2022.085 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 12 (524) files added so far); re-opening (prior size: 3440.1 KB)
+2025.699 (0) The time we have been running (2023.5) is approaching the resumption interval (2044) - increasing resumption interval to 2054
+2030.487 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 15 (539) files added so far); re-opening (prior size: 3692.3 KB)
+2035.256 (0) The time we have been running (2032.3) is approaching the resumption interval (2054) - increasing resumption interval to 2063
+2039.150 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 10 (549) files added so far); re-opening (prior size: 3955.7 KB)
+2046.441 (0) The time we have been running (2044.1) is approaching the resumption interval (2063) - increasing resumption interval to 2075
+2053.088 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 15 (564) files added so far); re-opening (prior size: 4224.1 KB)
+2055.985 (0) The time we have been running (2053.9) is approaching the resumption interval (2075) - increasing resumption interval to 2084
+2059.463 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 9 (573) files added so far); re-opening (prior size: 4273.4 KB)
+2067.573 (0) The time we have been running (2064.2) is approaching the resumption interval (2084) - increasing resumption interval to 2095
+2073.205 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 9 (582) files added so far); re-opening (prior size: 4453.2 KB)
+2083.746 (0) The time we have been running (2074.9) is approaching the resumption interval (2095) - increasing resumption interval to 2105
+2088.696 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.tmp: 600 files added (on-disk size: 4556.2 KB)
+2089.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 19 (601) files added so far); re-opening (prior size: 4556.2 KB)
+2100.126 (0) The time we have been running (2092.4) is approaching the resumption interval (2105) - increasing resumption interval to 2123
+2111.506 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (602) files added so far); re-opening (prior size: 4595.5 KB)
+2113.785 (0) The time we have been running (2112.2) is approaching the resumption interval (2123) - increasing resumption interval to 2143
+2118.550 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 20 (622) files added so far); re-opening (prior size: 4596.7 KB)
+2126.080 (0) The time we have been running (2123.6) is approaching the resumption interval (2143) - increasing resumption interval to 2154
+2130.046 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (636) files added so far); re-opening (prior size: 6693.8 KB)
+2132.956 (0) The time we have been running (2130.8) is approaching the resumption interval (2154) - increasing resumption interval to 2161
+2137.131 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (650) files added so far); re-opening (prior size: 6708.9 KB)
+2140.059 (0) The time we have been running (2137.4) is approaching the resumption interval (2161) - increasing resumption interval to 2168
+2146.472 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (651) files added so far); re-opening (prior size: 6718.6 KB)
+2149.980 (0) The time we have been running (2147) is approaching the resumption interval (2168) - increasing resumption interval to 2177
+2154.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 35 (686) files added so far); re-opening (prior size: 6719.4 KB)
+2162.160 (0) The time we have been running (2158.2) is approaching the resumption interval (2177) - increasing resumption interval to 2189
+2166.210 (0) Zip: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.tmp: 700 files added (on-disk size: 6739.6 KB)
+2167.091 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 16 (702) files added so far); re-opening (prior size: 6739.6 KB)
+2170.466 (0) The time we have been running (2168.3) is approaching the resumption interval (2189) - increasing resumption interval to 2199
+2181.131 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 27 (729) files added so far); re-opening (prior size: 6750.3 KB)
+2185.097 (0) The time we have been running (2183) is approaching the resumption interval (2199) - increasing resumption interval to 2213
+2191.490 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 12 (741) files added so far); re-opening (prior size: 6773.5 KB)
+2202.657 (0) The time we have been running (2192.1) is approaching the resumption interval (2213) - increasing resumption interval to 2223
+2210.445 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 17 (758) files added so far); re-opening (prior size: 6812.8 KB)
+2215.252 (0) The time we have been running (2212.5) is approaching the resumption interval (2223) - increasing resumption interval to 2243
+2233.632 (0) The time we have been running (2221.2) is approaching the resumption interval (2243) - increasing resumption interval to 2252
+2236.013 (0) Creating zip file manifest (D:\Program Files\Xampp\htdocs\Myner Gameplay\Myner-Gameplay/wp-content/updraft/backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.list-temp.tmp)
+2236.978 (0) Successfully created zip file manifest (size: 51351)
+2240.500 (0) Created themes zip (0) - 7221.9 KB in 529.1 s (13.6 KB/s) (sha1: eae9372077f01b36edc4ffe10e692b698ff56a37, sha256: d6abc7649ec29bd0755cb08ced1e284b32c2e834027424af27257e5b5e690f16)
+2243.471 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+2244.547 (0) Looking for candidates to backup in: D:\Program Files\Xampp\htdocs\Myner Gameplay\Myner-Gameplay/wp-content/uploads
+2245.402 (0) finding files: 2021: adding to list (1)
+2248.340 (0) Beginning creation of dump of uploads (split every: 400 MB)
+2253.983 (0) Total entities for the zip file: 2 directories, 32 files (0 skipped as non-modified), 1.8 MB
+2255.431 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+2259.255 (0) The time we have been running (2256.3) is approaching the resumption interval (2252) - increasing resumption interval to 2287
+2265.063 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 10 (11) files added so far); re-opening (prior size: 4.4 KB)
+2269.207 (0) The time we have been running (2265.9) is approaching the resumption interval (2287) - increasing resumption interval to 2296
+2276.331 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 15 (26) files added so far); re-opening (prior size: 318.7 KB)
+2291.860 (0) The time we have been running (2283.6) is approaching the resumption interval (2296) - increasing resumption interval to 2314
+2298.585 (0) The time we have been running (2295.3) is approaching the resumption interval (2314) - increasing resumption interval to 2326
+2301.306 (0) Creating zip file manifest (D:\Program Files\Xampp\htdocs\Myner Gameplay\Myner-Gameplay/wp-content/updraft/backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-uploads.zip.list-temp.tmp)
+2305.247 (0) Successfully created zip file manifest (size: 1862)
+2309.750 (0) Created uploads zip (0) - 1818 KB in 59.2 s (30.7 KB/s) (sha1: f19a5449a775a901a7fbdac5c6c011c91392715b, sha256: 7611de3accaf717a89cfe1a8bf608c3b0ebc4dab6890c53d87bd908466238957)
+2311.167 (0) Beginning backup of other directories found in the content directory (index: 0)
+2312.036 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+2312.722 (0) Looking for candidates to backup in: D:\Program Files\Xampp\htdocs\Myner Gameplay\Myner-Gameplay/wp-content
+2313.731 (0) finding files: index.php: adding to list (1)
+2314.394 (0) finding files: plugins: skipping: this is the plugins directory
+2315.740 (0) finding files: themes: skipping: this is the themes directory
+2316.869 (0) finding files: updraft: skipping: this is the updraft directory
+2317.725 (0) finding files: upgrade: skipping: excluded by options
+2318.776 (0) finding files: uploads: skipping: this is the uploads directory
+2324.883 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+2327.431 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+2334.632 (0) The time we have been running (2328.2) is approaching the resumption interval (2326) - increasing resumption interval to 2359
+2341.013 (0) Creating zip file manifest (D:\Program Files\Xampp\htdocs\Myner Gameplay\Myner-Gameplay/wp-content/updraft/backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-others.zip.list-temp.tmp)
+2341.690 (0) Successfully created zip file manifest (size: 43)
+2352.955 (0) Created others zip (0) - 0.1 KB in 33.5 s (0 KB/s) (sha1: caaee9c3c8b73e575d84df8ce1a406fb1e95b0f9, sha256: 2123ca4ed1af2329735582d44830064cc5c47621e6d912a8bb695966e94f49f3)
+2358.291 (0) Saving backup status to database (elements: 8)
+2364.588 (0) Beginning creation of database dump (WordPress DB)
+2365.370 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+2385.857 (0) Table wp_options: Total expected rows (via COUNT): 247
+2386.540 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2389.464 (0) Table wp_options: Rows added in this batch (next record: 375): 243 (uncompressed bytes in this segment=1501499) in 17.69 seconds
+2393.368 (0) The time we have been running (2391.3) is approaching the resumption interval (2359) - increasing resumption interval to 2422
+2395.725 (0) The scheduled resumption is within 45 seconds - will reschedule
+2397.584 (0) Rescheduling resumption 1: moving to 600 seconds from now (1635603253)
+2404.690 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 2422 + 45 = 2467
+2407.105 (0) Table wp_options: finishing file(s) (2, 383.2 KB)
+2415.708 (0) Table wp_users: Total expected rows (via COUNT): 1
+2417.010 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2421.594 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1376) in 9.86 seconds
+2426.880 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+2430.025 (0) Table wp_usermeta: Total expected rows (via COUNT): 23
+2431.112 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2438.315 (0) Table wp_usermeta: Rows added in this batch (next record: 27): 23 (uncompressed bytes in this segment=2072) in 9.54 seconds
+2444.059 (0) The time we have been running (2439.9) is approaching the resumption interval (2467) - increasing resumption interval to 2470
+2455.825 (0) The time we have been running (2447.3) is approaching the resumption interval (2470) - increasing resumption interval to 2478
+2457.398 (0) Table wp_usermeta: finishing file(s) (2, 1.1 KB)
+2463.231 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+2465.505 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 4.92 seconds
+2474.585 (0) The time we have been running (2468.5) is approaching the resumption interval (2478) - increasing resumption interval to 2499
+2483.520 (0) The time we have been running (2481.3) is approaching the resumption interval (2499) - increasing resumption interval to 2512
+2484.650 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+2500.336 (0) Table wp_comments: Total expected rows (via COUNT): 1
+2500.512 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2500.911 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2093) in 14.30 seconds
+2509.227 (0) The time we have been running (2501.1) is approaching the resumption interval (2512) - increasing resumption interval to 2532
+2516.368 (0) The time we have been running (2510.4) is approaching the resumption interval (2532) - increasing resumption interval to 2541
+2520.076 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+2534.311 (0) Table wp_links: Total expected rows (via COUNT): 0
+2542.241 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 8.13 seconds
+2543.785 (0) The time we have been running (2542.6) is approaching the resumption interval (2541) - increasing resumption interval to 2573
+2546.452 (0) The time we have been running (2544.9) is approaching the resumption interval (2573) - increasing resumption interval to 2575
+2547.235 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+2549.003 (0) Table wp_postmeta: Total expected rows (via COUNT): 178
+2549.315 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2550.065 (0) Table wp_postmeta: Rows added in this batch (next record: 220): 178 (uncompressed bytes in this segment=18167) in 1.92 seconds
+2562.434 (0) The time we have been running (2551.3) is approaching the resumption interval (2575) - increasing resumption interval to 2582
+2566.507 (0) The time we have been running (2563.8) is approaching the resumption interval (2582) - increasing resumption interval to 2594
+2571.427 (0) Table wp_postmeta: finishing file(s) (2, 3.6 KB)
+2580.990 (0) Table wp_posts: Total expected rows (via COUNT): 55
+2582.610 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2584.068 (0) Table wp_posts: Rows added in this batch (next record: 65): 55 (uncompressed bytes in this segment=226493) in 6.89 seconds
+2594.763 (0) The time we have been running (2585.9) is approaching the resumption interval (2594) - increasing resumption interval to 2616
+2605.226 (0) The time we have been running (2600.5) is approaching the resumption interval (2616) - increasing resumption interval to 2631
+2609.623 (0) Table wp_posts: finishing file(s) (2, 20.8 KB)
+2610.945 (0) Table wp_term_relationships: Total expected rows (approximate): 10
+2611.993 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 10 (uncompressed bytes in this segment=810) in 1.18 seconds
+2614.601 (0) The time we have been running (2612.8) is approaching the resumption interval (2631) - increasing resumption interval to 2643
+2617.367 (0) The time we have been running (2615.7) is approaching the resumption interval (2643) - increasing resumption interval to 2646
+2619.245 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+2622.220 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 3
+2622.540 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2624.125 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=970) in 3.32 seconds
+2627.309 (0) The time we have been running (2625) is approaching the resumption interval (2646) - increasing resumption interval to 2656
+2630.756 (0) The time we have been running (2628.3) is approaching the resumption interval (2656) - increasing resumption interval to 2659
+2633.254 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+2637.228 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+2639.385 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 2.35 seconds
+2649.137 (0) The time we have been running (2641.5) is approaching the resumption interval (2659) - increasing resumption interval to 2672
+2653.869 (0) The time we have been running (2650.3) is approaching the resumption interval (2672) - increasing resumption interval to 2681
+2656.546 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+2664.649 (0) Table wp_terms: Total expected rows (via COUNT): 3
+2664.989 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+2667.713 (0) Table wp_terms: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=782) in 5.90 seconds
+2671.348 (0) The time we have been running (2668.6) is approaching the resumption interval (2681) - increasing resumption interval to 2699
+2684.066 (0) The time we have been running (2676) is approaching the resumption interval (2699) - increasing resumption interval to 2706
+2688.214 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+2690.145 (0) Table wp_simply_static_pages: Total expected rows (via COUNT): 0
+2692.198 (0) Table wp_simply_static_pages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1608) in 2.22 seconds
+2695.343 (0) The time we have been running (2693.2) is approaching the resumption interval (2706) - increasing resumption interval to 2724
+2700.546 (0) The time we have been running (2697.9) is approaching the resumption interval (2724) - increasing resumption interval to 2728
+2702.382 (0) Table wp_simply_static_pages: finishing file(s) (2, 0.5 KB)
+2702.912 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_options.table.tmpr376.gz (1/13/fopen): adding to final database dump
+2703.725 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_options.table.gz (2/13/fopen): adding to final database dump
+2704.999 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_users.table.tmpr2.gz (3/13/fopen): adding to final database dump
+2705.498 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_users.table.gz (4/13/fopen): adding to final database dump
+2709.507 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_usermeta.table.tmpr28.gz (5/13/fopen): adding to final database dump
+2711.678 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_usermeta.table.gz (6/13/fopen): adding to final database dump
+2711.972 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_commentmeta.table.tmpr0.gz (7/13/fopen): adding to final database dump
+2712.379 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_commentmeta.table.gz (8/13/fopen): adding to final database dump
+2713.773 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_comments.table.tmpr2.gz (9/13/fopen): adding to final database dump
+2714.469 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_comments.table.gz (10/13/fopen): adding to final database dump
+2715.043 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_links.table.tmpr0.gz (11/13/fopen): adding to final database dump
+2715.591 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_links.table.gz (12/13/fopen): adding to final database dump
+2716.341 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_postmeta.table.tmpr221.gz (13/13/fopen): adding to final database dump
+2721.939 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_postmeta.table.gz (14/13/fopen): adding to final database dump
+2722.210 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_posts.table.tmpr66.gz (15/13/fopen): adding to final database dump
+2722.985 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_posts.table.gz (16/13/fopen): adding to final database dump
+2723.450 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_term_relationships.table.tmpr100001.gz (17/13/fopen): adding to final database dump
+2724.761 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_term_relationships.table.gz (18/13/fopen): adding to final database dump
+2725.689 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_term_taxonomy.table.tmpr4.gz (19/13/fopen): adding to final database dump
+2726.394 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_term_taxonomy.table.gz (20/13/fopen): adding to final database dump
+2731.557 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_termmeta.table.tmpr0.gz (21/13/fopen): adding to final database dump
+2735.430 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_termmeta.table.gz (22/13/fopen): adding to final database dump
+2737.117 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_terms.table.tmpr4.gz (23/13/fopen): adding to final database dump
+2738.568 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_terms.table.gz (24/13/fopen): adding to final database dump
+2744.211 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_simply_static_pages.table.tmpr0.gz (25/13/fopen): adding to final database dump
+2747.287 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db-table-wp_simply_static_pages.table.gz (26/13/fopen): adding to final database dump
+2750.619 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db.gz: finished writing out complete database file (413.4 KB)
+2755.795 (0) Total database tables backed up: 13 (backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db.gz, size: 423471, sha1: 17726b32b734318ceb0bea6d1f2d6141fef630c2, sha256: 81ff3bd83aa17101f366a3420cd045cde3cc24079b2acf6de0d4847d1f67c1ab)
+2760.060 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2765.973 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2768.495 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2772.625 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-others.zip: others: This file has not yet been successfully uploaded: will queue
+2775.017 (0) backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db.gz: db: This file has not yet been successfully uploaded: will queue
+2776.223 (0) Saving backup history. Total backup size: 21.8 MB
+2777.701 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+2779.930 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2780.934 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5dfd0663766b1469aceb10649491c8c6)
+2786.192 (0) Google Drive: quota usage: used=17.4 MB, total=15360 MB, available=15342.6 MB
+2788.319 (0) Google Drive: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip: Attempting to upload to Google Drive (into folder id: 1n5Xuj6lVBiL_r_gCqH3yBmrOb9tz1kLH)
+2795.839 (0) The time we have been running (2793.9) is approaching the resumption interval (2728) - increasing resumption interval to 2824
+2797.384 (0) Googledrive chunked upload: 7.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 45.8 / 14)
+2808.570 (0) The time we have been running (2805.4) is approaching the resumption interval (2824) - increasing resumption interval to 2836
+2809.758 (0) Googledrive chunked upload: 23.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 45.8 / 14)
+2817.782 (0) The time we have been running (2815) is approaching the resumption interval (2836) - increasing resumption interval to 2845
+2821.801 (0) Googledrive chunked upload: 55.6 % uploaded (7340032)
+2833.869 (0) The time we have been running (2831.7) is approaching the resumption interval (2845) - increasing resumption interval to 2862
+2836.220 (0) Googledrive chunked upload: 87.3 % uploaded (11534336)
+2855.938 (0) The time we have been running (2840.7) is approaching the resumption interval (2862) - increasing resumption interval to 2871
+2856.870 (0) Googledrive chunked upload: 100 % uploaded (11534336)
+2858.456 (0) Google Drive: OK: Archive backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip uploaded in 69.61 seconds
+2859.328 (0) Recording as successfully uploaded: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip
+2860.196 (0) Deleting local file: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip: OK
+2861.268 (0) Deleting zip manifest (backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-plugins.zip.list.tmp)
+2863.478 (0) Google Drive: quota usage: used=30 MB, total=15360 MB, available=15330 MB
+2864.231 (0) Google Drive: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip: Attempting to upload to Google Drive (into folder id: 1n5Xuj6lVBiL_r_gCqH3yBmrOb9tz1kLH)
+2878.321 (0) The time we have been running (2875.4) is approaching the resumption interval (2871) - increasing resumption interval to 2906
+2879.609 (0) Googledrive chunked upload: 14.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 45.8 / 14)
+2892.219 (0) The time we have been running (2885.1) is approaching the resumption interval (2906) - increasing resumption interval to 2916
+2895.661 (0) Googledrive chunked upload: 42.5 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 45.8 / 14)
+2907.222 (0) The time we have been running (2905.8) is approaching the resumption interval (2916) - increasing resumption interval to 2936
+2907.567 (0) Googledrive chunked upload: 99.3 % uploaded (7340032)
+2910.008 (0) The time we have been running (2909.5) is approaching the resumption interval (2936) - increasing resumption interval to 2940
+2910.631 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+2911.107 (0) Google Drive: OK: Archive backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip uploaded in 45.87 seconds
+2911.249 (0) Recording as successfully uploaded: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip
+2911.803 (0) Deleting local file: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip: OK
+2911.955 (0) Deleting zip manifest (backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-themes.zip.list.tmp)
+2912.686 (0) Google Drive: quota usage: used=37.1 MB, total=15360 MB, available=15322.9 MB
+2913.415 (0) Google Drive: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-uploads.zip: Attempting to upload to Google Drive (into folder id: 1n5Xuj6lVBiL_r_gCqH3yBmrOb9tz1kLH)
+2923.123 (0) The time we have been running (2921.2) is approaching the resumption interval (2940) - increasing resumption interval to 2952
+2925.000 (0) Googledrive chunked upload: 56.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 45.8 / 14)
+2938.958 (0) The time we have been running (2928.7) is approaching the resumption interval (2952) - increasing resumption interval to 2959
+2940.538 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+2942.907 (0) Google Drive: OK: Archive backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-uploads.zip uploaded in 29.18 seconds
+2943.441 (0) Recording as successfully uploaded: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-uploads.zip
+2945.516 (0) Deleting local file: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-uploads.zip: OK
+2946.723 (0) Deleting zip manifest (backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-uploads.zip.list.tmp)
+2949.660 (0) Google Drive: quota usage: used=38.9 MB, total=15360 MB, available=15321.1 MB
+2951.039 (0) Google Drive: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-others.zip: Attempting to upload to Google Drive (into folder id: 1n5Xuj6lVBiL_r_gCqH3yBmrOb9tz1kLH)
+2955.304 (0) The time we have been running (2953.4) is approaching the resumption interval (2959) - increasing resumption interval to 2984
+2957.093 (0) The scheduled resumption is within 45 seconds - will reschedule
+2959.666 (0) Rescheduling resumption 1: moving to 600 seconds from now (1635603815)
+2963.608 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 2984 + 45 = 3029
+2964.620 (0) Googledrive chunked upload: 100 % uploaded
+2970.865 (0) Google Drive: OK: Archive backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-others.zip uploaded in 19.48 seconds
+2971.695 (0) Recording as successfully uploaded: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-others.zip
+2972.568 (0) Deleting local file: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-others.zip: OK
+2973.950 (0) Deleting zip manifest (backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-others.zip.list.tmp)
+2975.642 (0) Google Drive: quota usage: used=38.9 MB, total=15360 MB, available=15321.1 MB
+2975.742 (0) Google Drive: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db.gz: Attempting to upload to Google Drive (into folder id: 1n5Xuj6lVBiL_r_gCqH3yBmrOb9tz1kLH)
+2980.499 (0) Googledrive chunked upload: 100 % uploaded
+2981.339 (0) Google Drive: OK: Archive backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db.gz uploaded in 5.43 seconds
+2981.555 (0) Recording as successfully uploaded: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db.gz
+2982.448 (0) Deleting local file: backup_2021-10-30-1324_Myner_Gameplay_1b7483c1b5dc-db.gz: OK
+2983.529 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2983.896 (0) Number of backup sets in history: 2; groups (db): 1
+2984.065 (0) Examining (for databases) backup set with group_id=0, nonce=1b7483c1b5dc, datestamp=1635600255 (Oct 30 2021 13:24:15)
+2984.230 (0) This backup set is the backup set just made, so will not be deleted.
+2984.230 (0) Examining (for databases) backup set with group_id=0, nonce=6d14f4a034cc, datestamp=1633805014 (Oct 09 2021 18:43:34)
+2984.230 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+2984.410 (0) Number of backup sets in history: 2; groups (files): 1
+2984.751 (0) Examining (for files) backup set with nonce=1b7483c1b5dc, datestamp=1635600255 (Oct 30 2021 13:24:15)
+2984.751 (0) This backup set is the backup set just made, so will not be deleted.
+2984.910 (0) This backup set is the backup set just made, so will not be deleted.
+2984.910 (0) This backup set is the backup set just made, so will not be deleted.
+2984.910 (0) This backup set is the backup set just made, so will not be deleted.
+2984.911 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+2985.069 (0) Examining (for files) backup set with nonce=6d14f4a034cc, datestamp=1633805014 (Oct 09 2021 18:43:34)
+2985.070 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+2985.266 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2985.573 (0) Resume backup (1b7483c1b5dc, 0): finish run
+2986.345 (0) Decremented the semaphore (fd) by 1
+2986.701 (0) Semaphore (fd) unlocked
+2987.056 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+2988.100 (0) No email will/can be sent - the user has not configured an email address.
+2988.259 (0) The backup apparently succeeded and is now complete
