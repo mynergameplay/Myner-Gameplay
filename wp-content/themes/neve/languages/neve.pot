@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-09-29T08:03:50+00:00\n"
+"POT-Creation-Date: 2021-10-27T09:39:28+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.5.0\n"
 "X-Domain: neve\n"
@@ -56,7 +56,7 @@ msgstr ""
 msgid "You appear to be running the Neve theme from source code. Please finish installation by running %s."
 msgstr ""
 
-#: globals/utilities.php:181
+#: globals/utilities.php:199
 #: header-footer-grid/Core/Components/Nav.php:189
 #: searchform.php:19
 #: assets/apps/customizer-controls/src/font-family/FontFamilySelector.js:128
@@ -64,7 +64,7 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
-#: globals/utilities.php:334
+#: globals/utilities.php:352
 #: inc/customizer/options/upsells.php:115
 #: inc/customizer/options/upsells.php:120
 #: inc/customizer/options/upsells.php:129
@@ -74,12 +74,12 @@ msgstr ""
 #: assets/apps/dashboard/src/Components/Content/Help.js:34
 #: assets/apps/dashboard/src/Components/Content/Help.js:78
 #: assets/apps/dashboard/src/Components/Content/Help.js:111
-#: assets/apps/dashboard/src/Components/ModuleCard.js:168
+#: assets/apps/dashboard/src/Components/ModuleCard.js:187
 msgid "Learn More"
 msgstr ""
 
 #. translators: store name (Themeisle)
-#: globals/utilities.php:337
+#: globals/utilities.php:355
 #: header-footer-grid/Core/Builder/Footer.php:48
 #: header-footer-grid/Core/Builder/Header.php:51
 #: inc/admin/dashboard/main.php:224
@@ -94,107 +94,180 @@ msgstr ""
 msgid "(opens in a new tab)"
 msgstr ""
 
-#: globals/utilities.php:365
-#: globals/utilities.php:413
+#: globals/utilities.php:383
+#: globals/utilities.php:431
 msgid "Base"
 msgstr ""
 
-#: globals/utilities.php:380
-#: globals/utilities.php:428
+#: globals/utilities.php:398
+#: globals/utilities.php:446
 msgid "Dark Mode"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:336
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:340
 #: header-footer-grid/Core/Settings/Manager.php:186
 #: inc/customizer/options/main.php:54
 msgid "Layout"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:341
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:342
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:345
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:346
 #: inc/admin/metabox/main.php:54
 #: inc/customizer/options/layout_container.php:143
 #: inc/customizer/options/layout_sidebar.php:177
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:318
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:319
 msgid "Full Width"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:341
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:343
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:345
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:347
 #: inc/admin/metabox/main.php:53
 #: inc/customizer/options/layout_container.php:142
 #: inc/customizer/options/layout_single_post.php:499
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:299
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:300
 msgid "Contained"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:359
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:363
 msgid "Row height"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:405
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:410
 msgid "Row Background"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:435
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:440
 #: header-footer-grid/Core/Components/Copyright.php:84
-#: header-footer-grid/Core/Components/CustomHtml.php:163
-#: header-footer-grid/Core/Components/Logo.php:205
+#: header-footer-grid/Core/Components/CustomHtml.php:171
+#: header-footer-grid/Core/Components/Logo.php:206
 #: inc/compatibility/elementor.php:117
-#: inc/core/front_end.php:115
+#: inc/core/front_end.php:116
 #: inc/customizer/options/layout_blog.php:177
 #: assets/apps/customizer-controls/src/common/common.js:77
 msgid "Text Color"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:548
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:464
+#: header-footer-grid/Core/Components/Search.php:204
+#: header-footer-grid/Core/Components/SearchResponsive.php:381
+#: inc/customizer/options/form_fields.php:189
+#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:154
+msgid "Border Width"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:502
+#: inc/customizer/options/form_fields.php:295
+msgid "Border Color"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:615
 #: header-footer-grid/Core/Builder/Header.php:38
 msgid "Header"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:631
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:698
 msgid "Section Content"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1821
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1916
+#: header-footer-grid/Core/Components/Abstract_Component.php:1001
+#: inc/customizer/options/layout_sidebar.php:181
+#: inc/customizer/options/layout_single_post.php:252
+#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:112
+#: assets/apps/customizer-controls/src/non-responsive-spacing/NRSpacingComponent.js:45
+#: assets/apps/customizer-controls/src/spacing/SpacingComponent.js:126
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:223
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:227
+msgid "Left"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1920
+#: header-footer-grid/Core/Components/Abstract_Component.php:1005
+#: inc/customizer/options/layout_single_post.php:256
+msgid "Center"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1924
+#: header-footer-grid/Core/Components/Abstract_Component.php:1009
+#: inc/customizer/options/layout_sidebar.php:185
+#: inc/customizer/options/layout_single_post.php:260
+#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:110
+#: assets/apps/customizer-controls/src/non-responsive-spacing/NRSpacingComponent.js:43
+#: assets/apps/customizer-controls/src/spacing/SpacingComponent.js:116
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:237
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:241
+msgid "Right"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1935
+#: header-footer-grid/Core/Components/Abstract_Component.php:1032
+msgid "Alignment"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1981
 #: header-footer-grid/Core/Components/SearchResponsive.php:113
 msgid "Open Behaviour"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1826
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1986
 msgid "Slide from Left"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1827
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1987
 msgid "Slide from Right"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1828
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1988
 msgid "Pull from Left"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1829
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1989
 msgid "Pull from Right"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1830
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1990
 msgid "Full Canvas"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1831
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1991
 msgid "Slide Down"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1846
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2006
 msgid "Sidebar Width"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1909
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2070
 msgid "Number of Columns"
 msgstr ""
 
-#: header-footer-grid/Core/Builder/Abstract_Builder.php:1926
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2087
 msgid "Columns Layout"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2101
+#: inc/customizer/options/layout_single_post.php:302
+#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:109
+#: assets/apps/customizer-controls/src/non-responsive-spacing/NRSpacingComponent.js:42
+#: assets/apps/customizer-controls/src/spacing/SpacingComponent.js:111
+msgid "Top"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2105
+#: inc/customizer/options/layout_single_post.php:306
+msgid "Middle"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2109
+#: inc/customizer/options/layout_single_post.php:310
+#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:111
+#: assets/apps/customizer-controls/src/non-responsive-spacing/NRSpacingComponent.js:44
+#: assets/apps/customizer-controls/src/spacing/SpacingComponent.js:121
+msgid "Bottom"
+msgstr ""
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:2123
+msgid "Vertical Alignment"
 msgstr ""
 
 #: header-footer-grid/Core/Builder/Footer.php:34
@@ -278,79 +351,23 @@ msgstr ""
 msgid "Mobile Sidebar"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Abstract_Component.php:476
+#: header-footer-grid/Core/Components/Abstract_Component.php:482
 #: inc/customizer/options/buttons.php:83
 #: inc/customizer/options/buttons.php:288
 msgid "Padding"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Abstract_Component.php:506
+#: header-footer-grid/Core/Components/Abstract_Component.php:512
 msgid "Margin"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Abstract_Component.php:831
+#: header-footer-grid/Core/Components/Abstract_Component.php:863
 #: inc/customizer/options/main.php:59
 msgid "Typography"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Abstract_Component.php:941
-#: inc/customizer/options/layout_single_post.php:302
-#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:109
-#: assets/apps/customizer-controls/src/non-responsive-spacing/NRSpacingComponent.js:42
-#: assets/apps/customizer-controls/src/spacing/SpacingComponent.js:111
-msgid "Top"
-msgstr ""
-
-#: header-footer-grid/Core/Components/Abstract_Component.php:945
-#: inc/customizer/options/layout_single_post.php:306
-msgid "Middle"
-msgstr ""
-
-#: header-footer-grid/Core/Components/Abstract_Component.php:949
-#: inc/customizer/options/layout_single_post.php:310
-#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:111
-#: assets/apps/customizer-controls/src/non-responsive-spacing/NRSpacingComponent.js:44
-#: assets/apps/customizer-controls/src/spacing/SpacingComponent.js:121
-msgid "Bottom"
-msgstr ""
-
-#: header-footer-grid/Core/Components/Abstract_Component.php:962
-msgid "Vertical Alignment"
-msgstr ""
-
-#: header-footer-grid/Core/Components/Abstract_Component.php:1014
-#: inc/customizer/options/layout_sidebar.php:181
-#: inc/customizer/options/layout_single_post.php:252
-#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:112
-#: assets/apps/customizer-controls/src/non-responsive-spacing/NRSpacingComponent.js:45
-#: assets/apps/customizer-controls/src/spacing/SpacingComponent.js:126
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:222
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:226
-msgid "Left"
-msgstr ""
-
-#: header-footer-grid/Core/Components/Abstract_Component.php:1018
-#: inc/customizer/options/layout_single_post.php:256
-msgid "Center"
-msgstr ""
-
-#: header-footer-grid/Core/Components/Abstract_Component.php:1022
-#: inc/customizer/options/layout_sidebar.php:185
-#: inc/customizer/options/layout_single_post.php:260
-#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:110
-#: assets/apps/customizer-controls/src/non-responsive-spacing/NRSpacingComponent.js:43
-#: assets/apps/customizer-controls/src/spacing/SpacingComponent.js:116
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:236
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:240
-msgid "Right"
-msgstr ""
-
-#: header-footer-grid/Core/Components/Abstract_Component.php:1028
+#: header-footer-grid/Core/Components/Abstract_Component.php:1015
 msgid "Justify"
-msgstr ""
-
-#: header-footer-grid/Core/Components/Abstract_Component.php:1045
-msgid "Alignment"
 msgstr ""
 
 #: header-footer-grid/Core/Components/Button.php:82
@@ -390,7 +407,7 @@ msgstr ""
 #: inc/customizer/options/layout_single_post.php:468
 #: assets/apps/customizer-controls/src/background/Background.js:20
 #: assets/apps/customizer-controls/src/background/Background.js:71
-#: assets/apps/customizer-controls/src/common/ColorControl.js:59
+#: assets/apps/customizer-controls/src/common/ColorControl.js:75
 msgid "Color"
 msgstr ""
 
@@ -419,22 +436,22 @@ msgid "Arbitrary HTML code. It supports also shortcodes."
 msgstr ""
 
 #: header-footer-grid/Core/Components/FooterWidgetFour.php:32
-#: inc/core/front_end.php:360
+#: inc/core/front_end.php:361
 msgid "Footer Four"
 msgstr ""
 
 #: header-footer-grid/Core/Components/FooterWidgetOne.php:31
-#: inc/core/front_end.php:357
+#: inc/core/front_end.php:358
 msgid "Footer One"
 msgstr ""
 
 #: header-footer-grid/Core/Components/FooterWidgetThree.php:31
-#: inc/core/front_end.php:359
+#: inc/core/front_end.php:360
 msgid "Footer Three"
 msgstr ""
 
 #: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
-#: inc/core/front_end.php:358
+#: inc/core/front_end.php:359
 msgid "Footer Two"
 msgstr ""
 
@@ -446,23 +463,23 @@ msgstr ""
 msgid "Display your company logo here or simply use words to describe your business."
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:112
+#: header-footer-grid/Core/Components/Logo.php:113
 msgid "Display"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:132
+#: header-footer-grid/Core/Components/Logo.php:133
 msgid "Show Site Tagline"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:147
+#: header-footer-grid/Core/Components/Logo.php:148
 msgid "Show Site Title"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:162
+#: header-footer-grid/Core/Components/Logo.php:163
 msgid "Logo max width"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:192
+#: header-footer-grid/Core/Components/Logo.php:193
 msgid "Disable Homepage Link"
 msgstr ""
 
@@ -485,7 +502,7 @@ msgstr ""
 #: header-footer-grid/Core/Components/Nav.php:43
 #: header-footer-grid/Core/Components/Nav.php:233
 #: header-footer-grid/templates/components/component-nav.php:26
-#: inc/core/front_end.php:69
+#: inc/core/front_end.php:70
 msgid "Primary Menu"
 msgstr ""
 
@@ -541,7 +558,7 @@ msgstr ""
 #: header-footer-grid/Core/Components/NavFooter.php:41
 #: header-footer-grid/Core/Components/NavFooter.php:146
 #: header-footer-grid/templates/components/component-nav-footer.php:23
-#: inc/core/front_end.php:70
+#: inc/core/front_end.php:71
 msgid "Footer Menu"
 msgstr ""
 
@@ -614,13 +631,6 @@ msgstr ""
 msgid "Font Size"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Search.php:204
-#: header-footer-grid/Core/Components/SearchResponsive.php:381
-#: inc/customizer/options/form_fields.php:189
-#: assets/apps/customizer-controls/src/button-appearance/ButtonAppearance.js:154
-msgid "Border Width"
-msgstr ""
-
 #: header-footer-grid/Core/Components/Search.php:267
 #: header-footer-grid/Core/Components/SearchResponsive.php:444
 #: inc/customizer/options/form_fields.php:242
@@ -661,13 +671,14 @@ msgid "Icon"
 msgstr ""
 
 #: header-footer-grid/Core/Components/SearchResponsive.php:240
+#: inc/customizer/options/layout_blog.php:275
 msgid "Search Field"
 msgstr ""
 
 #: header-footer-grid/Core/Components/SecondNav.php:41
 #: header-footer-grid/Core/Components/SecondNav.php:144
 #: header-footer-grid/templates/components/component-nav-secondary.php:23
-#: inc/core/front_end.php:71
+#: inc/core/front_end.php:72
 msgid "Secondary Menu"
 msgstr ""
 
@@ -684,7 +695,7 @@ msgstr ""
 #: header-footer-grid/Core/Customizer.php:271
 #: assets/apps/customizer-controls/src/font-family/FontFamilySelector.js:59
 #: assets/apps/customizer-controls/src/font-family/FontFamilySelector.js:183
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:280
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:281
 msgid "Default"
 msgstr ""
 
@@ -762,7 +773,7 @@ msgid "Archive URL"
 msgstr ""
 
 #: header-footer-grid/Core/Magic_Tags.php:553
-#: inc/customizer/options/layout_blog.php:388
+#: inc/customizer/options/layout_blog.php:389
 #: inc/customizer/options/layout_single_post.php:639
 #: inc/views/partials/post_meta.php:179
 msgid "Author"
@@ -1122,7 +1133,7 @@ msgstr ""
 
 #: inc/admin/metabox/main.php:56
 #: inc/customizer/options/layout_container.php:43
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:254
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:255
 msgid "Container"
 msgstr ""
 
@@ -1139,8 +1150,8 @@ msgid "No Sidebar"
 msgstr ""
 
 #: inc/admin/metabox/main.php:78
-#: inc/core/front_end.php:350
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:181
+#: inc/core/front_end.php:351
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:182
 msgid "Sidebar"
 msgstr ""
 
@@ -1149,12 +1160,12 @@ msgid "Components"
 msgstr ""
 
 #: inc/admin/metabox/main.php:93
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:587
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:600
 msgid "Disable Header"
 msgstr ""
 
 #: inc/admin/metabox/main.php:98
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:627
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:640
 msgid "Disable Title"
 msgstr ""
 
@@ -1163,7 +1174,7 @@ msgid "Disable Featured Image"
 msgstr ""
 
 #: inc/admin/metabox/main.php:110
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:606
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:619
 msgid "Disable Footer"
 msgstr ""
 
@@ -1281,55 +1292,55 @@ msgid "Two columns with text"
 msgstr ""
 
 #: inc/compatibility/elementor.php:112
-#: inc/core/front_end.php:95
+#: inc/core/front_end.php:96
 #: assets/apps/customizer-controls/src/common/common.js:72
 msgid "Primary Accent"
 msgstr ""
 
 #: inc/compatibility/elementor.php:113
-#: inc/core/front_end.php:99
+#: inc/core/front_end.php:100
 #: assets/apps/customizer-controls/src/common/common.js:73
 msgid "Secondary Accent"
 msgstr ""
 
 #: inc/compatibility/elementor.php:114
-#: inc/core/front_end.php:103
+#: inc/core/front_end.php:104
 #: assets/apps/customizer-controls/src/common/common.js:74
 msgid "Site Background"
 msgstr ""
 
 #: inc/compatibility/elementor.php:115
-#: inc/core/front_end.php:107
+#: inc/core/front_end.php:108
 #: assets/apps/customizer-controls/src/common/common.js:75
 msgid "Light Background"
 msgstr ""
 
 #: inc/compatibility/elementor.php:116
-#: inc/core/front_end.php:111
+#: inc/core/front_end.php:112
 #: assets/apps/customizer-controls/src/common/common.js:76
 msgid "Dark Background"
 msgstr ""
 
 #: inc/compatibility/elementor.php:118
-#: inc/core/front_end.php:119
+#: inc/core/front_end.php:120
 #: assets/apps/customizer-controls/src/common/common.js:78
 msgid "Text Dark Background"
 msgstr ""
 
 #: inc/compatibility/elementor.php:119
-#: inc/core/front_end.php:123
+#: inc/core/front_end.php:124
 #: assets/apps/customizer-controls/src/common/common.js:79
 msgid "Extra Color 1"
 msgstr ""
 
 #: inc/compatibility/elementor.php:120
-#: inc/core/front_end.php:127
+#: inc/core/front_end.php:128
 #: assets/apps/customizer-controls/src/common/common.js:80
 msgid "Extra Color 2"
 msgstr ""
 
 #: inc/compatibility/elementor.php:292
-#: inc/core/front_end.php:90
+#: inc/core/front_end.php:91
 msgid "Theme"
 msgstr ""
 
@@ -1409,19 +1420,19 @@ msgstr ""
 msgid "Documentation"
 msgstr ""
 
-#: inc/core/front_end.php:351
+#: inc/core/front_end.php:352
 msgid "Shop Sidebar"
 msgstr ""
 
-#: inc/core/front_end.php:386
+#: inc/core/front_end.php:387
 msgid "Add item"
 msgstr ""
 
-#: inc/core/front_end.php:387
+#: inc/core/front_end.php:388
 msgid "Add items by clicking the ones below."
 msgstr ""
 
-#: inc/core/front_end.php:388
+#: inc/core/front_end.php:389
 msgid "All items are already selected."
 msgstr ""
 
@@ -1446,7 +1457,7 @@ msgstr ""
 msgid "PRO"
 msgstr ""
 
-#: inc/customizer/loader.php:131
+#: inc/customizer/loader.php:132
 msgid "update"
 msgstr ""
 
@@ -1516,10 +1527,6 @@ msgstr ""
 msgid "Field Background Color"
 msgstr ""
 
-#: inc/customizer/options/form_fields.php:295
-msgid "Border Color"
-msgstr ""
-
 #: inc/customizer/options/form_fields.php:337
 msgid "Input Text"
 msgstr ""
@@ -1578,6 +1585,7 @@ msgid "Post Pagination"
 msgstr ""
 
 #: inc/customizer/options/layout_blog.php:273
+#: inc/customizer/options/layout_blog.php:275
 msgid "Number"
 msgstr ""
 
@@ -1585,98 +1593,98 @@ msgstr ""
 msgid "Infinite Scroll"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:287
+#: inc/customizer/options/layout_blog.php:288
 #: inc/customizer/options/layout_single_post.php:533
-#: assets/apps/customizer-controls/src/ordering/OrderingComponent.js:76
+#: assets/apps/customizer-controls/src/ordering/OrderingComponent.js:94
 msgid "Thumbnail"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:288
+#: inc/customizer/options/layout_blog.php:289
 #: inc/customizer/options/layout_single_post.php:532
-#: assets/apps/customizer-controls/src/ordering/OrderingComponent.js:70
+#: assets/apps/customizer-controls/src/ordering/OrderingComponent.js:88
 msgid "Title & Meta"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:289
+#: inc/customizer/options/layout_blog.php:290
 msgid "Excerpt"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:300
+#: inc/customizer/options/layout_blog.php:301
 msgid "Post Content Order"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:317
+#: inc/customizer/options/layout_blog.php:318
 msgid "Excerpt Length"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:340
+#: inc/customizer/options/layout_blog.php:341
 msgid "Thumbnail Shadow"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:367
+#: inc/customizer/options/layout_blog.php:368
 #: inc/customizer/options/layout_single_post.php:86
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:537
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:538
 msgid "Post Meta"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:389
+#: inc/customizer/options/layout_blog.php:390
 #: inc/customizer/options/layout_single_post.php:640
 #: inc/customizer/options/layout_single_product.php:107
 #: inc/views/partials/post_meta.php:180
 msgid "Category"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:390
+#: inc/customizer/options/layout_blog.php:391
 #: inc/customizer/options/layout_single_post.php:641
 #: inc/views/partials/post_meta.php:181
 msgid "Date"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:391
+#: inc/customizer/options/layout_blog.php:392
 #: inc/customizer/options/layout_single_post.php:537
 #: inc/customizer/options/layout_single_post.php:545
 #: inc/customizer/options/layout_single_post.php:642
 #: inc/views/partials/post_meta.php:182
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:532
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:541
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:533
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:542
 msgid "Comments"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:403
+#: inc/customizer/options/layout_blog.php:404
 #: inc/customizer/options/layout_single_post.php:654
 msgid "Meta Order"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:423
+#: inc/customizer/options/layout_blog.php:424
 #: inc/customizer/options/layout_single_post.php:674
 msgid "Separator"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:424
+#: inc/customizer/options/layout_blog.php:425
 #: inc/customizer/options/layout_single_post.php:675
 msgid "For special characters make sure to use Unicode. For example > can be displayed using \\003E."
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:438
+#: inc/customizer/options/layout_blog.php:439
 #: inc/customizer/options/layout_single_post.php:690
 msgid "Show Author Avatar"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:454
+#: inc/customizer/options/layout_blog.php:455
 #: inc/customizer/options/layout_single_post.php:707
 msgid "Avatar Size"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:508
+#: inc/customizer/options/layout_blog.php:509
 #: inc/customizer/options/layout_single_post.php:759
 msgid "Use last updated date instead of the published one"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:642
+#: inc/customizer/options/layout_blog.php:643
 msgid "Customize Typography for the Archive page"
 msgstr ""
 
-#: inc/customizer/options/layout_blog.php:644
+#: inc/customizer/options/layout_blog.php:645
 msgid "here"
 msgstr ""
 
@@ -1706,7 +1714,7 @@ msgstr ""
 
 #: inc/customizer/options/layout_sidebar.php:49
 #: inc/customizer/options/layout_single_post.php:62
-#: inc/customizer/options/typography.php:290
+#: inc/customizer/options/typography.php:312
 msgid "Single Post"
 msgstr ""
 
@@ -1868,16 +1876,16 @@ msgstr ""
 
 #: inc/customizer/options/layout_single_post.php:534
 #: inc/customizer/options/layout_single_post.php:542
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:530
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:539
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:531
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:540
 msgid "Content"
 msgstr ""
 
 #: inc/customizer/options/layout_single_post.php:535
 #: inc/customizer/options/layout_single_post.php:543
 #: inc/views/partials/post_meta.php:334
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:531
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:540
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:532
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:541
 msgid "Tags"
 msgstr ""
 
@@ -1922,8 +1930,8 @@ msgstr ""
 #: inc/customizer/options/layout_single_product.php:124
 #: assets/apps/customizer-controls/src/typeface/Typeface.js:82
 #: assets/apps/customizer-controls/src/typeface/Typeface.js:115
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:208
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:212
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:209
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:213
 msgid "None"
 msgstr ""
 
@@ -1967,25 +1975,25 @@ msgstr ""
 msgid "Learn more about fallback fonts"
 msgstr ""
 
-#: inc/customizer/options/typography.php:273
-#: inc/customizer/options/typography.php:289
+#: inc/customizer/options/typography.php:295
+#: inc/customizer/options/typography.php:311
 msgid "Post title"
 msgstr ""
 
-#: inc/customizer/options/typography.php:274
+#: inc/customizer/options/typography.php:296
 msgid "Blog Archive"
 msgstr ""
 
-#: inc/customizer/options/typography.php:279
+#: inc/customizer/options/typography.php:301
 msgid "Post excerpt"
 msgstr ""
 
-#: inc/customizer/options/typography.php:284
-#: inc/customizer/options/typography.php:295
+#: inc/customizer/options/typography.php:306
+#: inc/customizer/options/typography.php:317
 msgid "Post meta"
 msgstr ""
 
-#: inc/customizer/options/typography.php:300
+#: inc/customizer/options/typography.php:322
 msgid "Comments reply title"
 msgstr ""
 
@@ -2124,16 +2132,16 @@ msgid_plural "%s Comments"
 msgstr[0] ""
 msgstr[1] ""
 
-#: inc/views/pluggable/pagination.php:192
+#: inc/views/pluggable/pagination.php:255
 #: inc/views/template_parts.php:328
 msgid "Pages:"
 msgstr ""
 
-#: inc/views/pluggable/pagination.php:209
+#: inc/views/pluggable/pagination.php:272
 msgid "previous"
 msgstr ""
 
-#: inc/views/pluggable/pagination.php:214
+#: inc/views/pluggable/pagination.php:277
 msgid "next"
 msgstr ""
 
@@ -2149,7 +2157,7 @@ msgstr ""
 msgid "Page Builder Full Width (Neve)"
 msgstr ""
 
-#: woocommerce/product-searchform.php:12
+#: woocommerce/product-searchform.php:22
 msgid "Search products&hellip;"
 msgstr ""
 
@@ -2212,7 +2220,7 @@ msgstr ""
 msgid "Hover"
 msgstr ""
 
-#: assets/apps/customizer-controls/src/common/ColorControl.js:83
+#: assets/apps/customizer-controls/src/common/ColorControl.js:114
 msgid "Clear"
 msgstr ""
 
@@ -2251,8 +2259,8 @@ msgstr ""
 
 #: assets/apps/customizer-controls/src/font-family/FontFamilySelector.js:58
 #: assets/apps/customizer-controls/src/font-family/FontFamilySelector.js:182
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:194
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:198
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:195
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:199
 msgid "Inherit"
 msgstr ""
 
@@ -2319,17 +2327,17 @@ msgstr ""
 msgid "Remove Item"
 msgstr ""
 
-#: assets/apps/customizer-controls/src/ordering/Ordering.js:18
-#: assets/apps/customizer-controls/src/ordering/Ordering.js:20
-#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:10
-#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:12
+#: assets/apps/customizer-controls/src/ordering/Ordering.js:8
+#: assets/apps/customizer-controls/src/ordering/Ordering.js:10
+#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:9
+#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:11
 msgid "Drag to Reorder"
 msgstr ""
 
-#: assets/apps/customizer-controls/src/ordering/Ordering.js:48
-#: assets/apps/customizer-controls/src/ordering/Ordering.js:50
-#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:61
-#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:63
+#: assets/apps/customizer-controls/src/ordering/Ordering.js:33
+#: assets/apps/customizer-controls/src/ordering/Ordering.js:35
+#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:60
+#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:62
 msgid "Toggle Visibility"
 msgstr ""
 
@@ -2426,8 +2434,7 @@ msgid "Night"
 msgstr ""
 
 #: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:145
-#: assets/apps/metabox/src/components/controls/SortableItems.js:30
-#: assets/apps/metabox/src/components/controls/SortableItems.js:91
+#: assets/apps/metabox/src/components/controls/SortableItems.js:34
 msgid "Toggle"
 msgstr ""
 
@@ -2435,19 +2442,19 @@ msgstr ""
 msgid "Accessibility"
 msgstr ""
 
-#: assets/apps/customizer-controls/src/repeater/Repeater.js:98
+#: assets/apps/customizer-controls/src/repeater/Repeater.js:95
 msgid "Done"
 msgstr ""
 
-#: assets/apps/customizer-controls/src/repeater/Repeater.js:98
+#: assets/apps/customizer-controls/src/repeater/Repeater.js:95
 msgid "Reorder"
 msgstr ""
 
-#: assets/apps/customizer-controls/src/repeater/Repeater.js:107
+#: assets/apps/customizer-controls/src/repeater/Repeater.js:104
 msgid "Add Item"
 msgstr ""
 
-#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:41
+#: assets/apps/customizer-controls/src/repeater/RepeaterItem.js:40
 msgid "Item"
 msgstr ""
 
@@ -2654,19 +2661,19 @@ msgstr ""
 msgid "Expires"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/ModuleCard.js:101
+#: assets/apps/dashboard/src/Components/ModuleCard.js:120
 msgid "Upgrade"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/ModuleCard.js:135
+#: assets/apps/dashboard/src/Components/ModuleCard.js:154
 msgid "Module Activated"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/ModuleCard.js:139
+#: assets/apps/dashboard/src/Components/ModuleCard.js:158
 msgid "Module Deactivated."
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/ModuleCard.js:149
+#: assets/apps/dashboard/src/Components/ModuleCard.js:168
 msgid "Could not activate module. Please try again."
 msgstr ""
 
@@ -2759,64 +2766,64 @@ msgstr ""
 msgid "Typekit Project ID is invalid"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:178
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:179
 msgid "Page Layout"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:328
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:329
 msgid "Custom Content Width (%)"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:393
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:394
 msgid "Page Title"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:395
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:396
 msgid "Title alignment"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:475
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:476
 msgid "Author Avatar"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:504
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:505
 msgid "Reading Time"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:533
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:542
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:534
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:543
 msgid "Post Navigation"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:536
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:537
 msgid "Post Title"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:538
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:539
 msgid "Featured Image"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:551
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:549
 msgid "Author Biography"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:555
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:550
 msgid "Related Posts"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:556
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:551
 msgid "Sharing Icons"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:565
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:575
 msgid "Elements"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:653
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:666
 msgid "Reset all options to default"
 msgstr ""
 
-#: assets/apps/metabox/src/components/MetaFieldsManager.js:663
+#: assets/apps/metabox/src/components/MetaFieldsManager.js:676
 msgid "Return to customizer settings"
 msgstr ""
 

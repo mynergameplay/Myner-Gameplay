@@ -443,6 +443,7 @@ a.neve-skip-link {
 body.nv-sidebar-left .alignfull, body.nv-sidebar-left .alignwide, body.nv-sidebar-right .alignfull, body.nv-sidebar-right .alignwide {
   max-width: 100%;
   margin-right: auto;
+  margin-left: auto;
 }
 
 .has-neve-body-font-size {

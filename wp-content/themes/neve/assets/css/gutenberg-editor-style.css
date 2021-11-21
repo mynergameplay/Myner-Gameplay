@@ -187,6 +187,21 @@ body .editor-styles-wrapper p {
   text-align: right;
 }
 
+.editor-styles-wrapper p {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3,
+.editor-styles-wrapper h4,
+.editor-styles-wrapper h5,
+.editor-styles-wrapper h6 {
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
 .editor-styles-wrapper h1.wp-block, .editor-styles-wrapper h1,
 .editor-styles-wrapper h2.wp-block,
 .editor-styles-wrapper h2,
@@ -391,6 +406,22 @@ body .editor-styles-wrapper p {
 .editor-styles-wrapper .wp-block-code {
   border: 0;
   border-radius: 0;
+}
+
+.editor-styles-wrapper p[class*="has-"][class*="-font-size"] {
+  line-height: 1;
+}
+
+.editor-styles-wrapper .has-medium-font-size, .editor-styles-wrapper .has-medium-font-size.wp-block {
+  font-size: calc(var(--h3FontSize) * 1.4) !important;
+}
+
+.editor-styles-wrapper .has-large-font-size, .editor-styles-wrapper .has-large-font-size.wp-block {
+  font-size: calc(var(--h2FontSize) * 1.4) !important;
+}
+
+.editor-styles-wrapper .has-huge-font-size, .editor-styles-wrapper .has-huge-font-size.wp-block {
+  font-size: calc(var(--h1FontSize) * 1.4) !important;
 }
 
 .editor-styles-wrapper .wp-block .wp-block-separator {
